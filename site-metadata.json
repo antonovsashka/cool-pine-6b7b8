@@ -1,6 +1,6 @@
 {
     "title": "Alexwell Home",
-    "palette": "green",
+    "palette": "blue",
     "header": {
         "type": "header",
         "template": "header",
