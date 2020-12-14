@@ -44,7 +44,7 @@
         "type": "footer",
         "template": "footer",
         "logo_img": "/images/neat-zebra.png",
-        "tagline": "",
+        "tagline": "Alexwell Inc.",
         "has_nav": true,
         "nav_title": "Company",
         "nav_links": [
