@@ -58,7 +58,7 @@ sections:
     title: Frequently Asked Questions
     section_id: faq
     subtitle: 'Phasellus luctus laoreet arcu, vel porta metus imperdiet sit amet.'
-    background: gray
+    background: white
     faq_items:
       - type: faq_item
         template: faq_item
