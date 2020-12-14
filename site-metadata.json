@@ -5,7 +5,7 @@
         "type": "header",
         "template": "header",
         "logo_img": "/images/light2.svg",
-        "has_nav": true,
+        "has_nav": false,
         "nav_links": [
             {
                 "type": "action",
